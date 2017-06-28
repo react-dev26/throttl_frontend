@@ -1,0 +1,10 @@
+{
+  "statements": 90,
+  "branches": 87,
+  "functions": 90,
+  "lines": 90,
+  "reporter": [
+    "lcov",
+    "text"
+  ]
+}
